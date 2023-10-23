@@ -9,7 +9,7 @@ C'est un processus collaboratif, alors plongez-vous et essayez d'aider ! Il y a 
 
 Tout cela est sous licence selon les termes de la licence `Creative Commons Zero`_.
 
-Lisez ceci en `简体中文`_ (chinois simplifié), en `日本語`_ (japonais), en `한국어`_ (coréen) et en `espagnol`_. NOTE : ces traductions n'ont pas été examinées par les responsables du projet alex/what-happens-when.
+Lisez ceci en `简体中文`_ (chinois simplifié), en `日本語`_ (japonais), en `한국어`_ (coréen), en `Spanish`_ et en `French`_. NOTE : ces traductions n'ont pas été examinées par les responsables du projet alex/what-happens-when.
 
 Table des matières
 ======================
@@ -419,3 +419,24 @@ Post-rendu et exécution induite par l'utilisateur
 Une fois le rendu terminé, le navigateur exécute le code JavaScript en réponse à un mécanisme de temporisation (tel qu'une animation Google Doodle) ou à une interaction de l'utilisateur (saisir une requête dans la zone de recherche et recevoir des suggestions).
 Des plugins tels que Flash ou Java peuvent également être exécutés, bien que ce ne soit pas le cas actuellement sur la page d'accueil de Google. Les scripts peuvent entraîner l'exécution de requêtes réseau supplémentaires, ainsi que la modification de la page ou de sa mise en page, provoquant une autre étape de rendu et de peinture de la page.
 
+.. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
+.. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
+.. _`Punycode`: https://en.wikipedia.org/wiki/Punycode
+.. _`Ethernet`: http://en.wikipedia.org/wiki/IEEE_802.3
+.. _`WiFi`: https://en.wikipedia.org/wiki/IEEE_802.11
+.. _`Cellular data network`: https://en.wikipedia.org/wiki/Cellular_data_communication_protocol
+.. _`analog-to-digital converter`: https://en.wikipedia.org/wiki/Analog-to-digital_converter
+.. _`network node`: https://en.wikipedia.org/wiki/Computer_network#Network_nodes
+.. _`TCP congestion control`: https://en.wikipedia.org/wiki/TCP_congestion_control
+.. _`cubic`: https://en.wikipedia.org/wiki/CUBIC_TCP
+.. _`New Reno`: https://en.wikipedia.org/wiki/TCP_congestion_control#TCP_New_Reno
+.. _`congestion window`: https://en.wikipedia.org/wiki/TCP_congestion_control#Congestion_window
+.. _`maximum segment size`: https://en.wikipedia.org/wiki/Maximum_segment_size
+.. _`varies by OS` : https://en.wikipedia.org/wiki/Hosts_%28file%29#Location_in_the_file_system
+.. _`简体中文`: https://github.com/skyline75489/what-happens-when-zh_CN
+.. _`한국어`: https://github.com/SantonyChoi/what-happens-when-KR
+.. _`日本語`: https://github.com/tettttsuo/what-happens-when-JA
+.. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
+.. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
+.. _`Spanish`: https://github.com/gonzaleztroyano/what-happens-when-ES
+.. _`French`: https://github.com/ggbaguidi/what-happens-when-FR
