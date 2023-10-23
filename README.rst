@@ -9,7 +9,7 @@ C'est un processus collaboratif, alors plongez-vous et essayez d'aider ! Il y a 
 
 Tout cela est sous licence selon les termes de la licence `Creative Commons Zero`_.
 
-Lisez ceci en `简体中文`_ (chinois simplifié), en `日本語`_ (japonais), en `한국어`_ (coréen), en `Spanish`_ et en `French`_. NOTE : ces traductions n'ont pas été examinées par les responsables du projet alex/what-happens-when.
+Lisez ceci en `简体中文`_ (chinois simplifié), en `日本語`_ (japonais), en `한국어`_ (coréen), en `Spanish`_ (espagnol) et en `French`_ (français). NOTE : ces traductions n'ont pas été examinées par les responsables du projet alex/what-happens-when.
 
 Table des matières
 ======================
